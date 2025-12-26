@@ -1,4 +1,3 @@
-# Laser-Wire-Welding-Prediction
 # Simulation-informed Bayesian Transfer Learning for Melt Pool Geometry Prediction
 
 This repository provides a **representative implementation** of the core model architectures proposed in the paper:
